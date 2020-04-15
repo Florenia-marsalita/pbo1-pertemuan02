@@ -7,6 +7,7 @@ public class InputOutput{
   int jumlahSks;
   double IPK;
 
+  System.out.println("==== Selamat Datang ====");
   System.out.print("Masukkan nama anda: ");
   nama = scanner.nextLine();
   System.out.println("Hai, "+nama);
